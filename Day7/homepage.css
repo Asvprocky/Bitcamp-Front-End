@@ -1,0 +1,11 @@
+.awge-tube-border {
+    width: 100%;
+    height: 100%;
+    background-image: url(https://dwvo2npct47gg.cloudfront.net/images/border-stretched-2.png);
+    background-size: 100% 100%;
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+}
